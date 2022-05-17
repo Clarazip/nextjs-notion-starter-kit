@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Clara Liu Portfolio',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Clara Liu',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Clara Liu Portfolio',
 
   // social usernames (optional)
   github: 'Clarazip',
