@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   github: 'Clarazip',
-  linkedin: 'Clara Liu',
+  linkedin: 'clara-liu-a3092721b',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
